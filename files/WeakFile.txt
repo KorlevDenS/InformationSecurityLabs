@@ -1,0 +1,10 @@
+A Cardano grille is made from a sheet of fairly rigid paper or parchment, or from thin metal.The paper is ruled
+to represent lines of handwriting and rectangular areas are cut out at arbitrary intervals between these lines.
+An encipherer places the grille on a sheet of paper and writes his message in the rectangular apertures, some of
+which might allow a single letter, a syllable, or a whole word. Then, removing the grille, the fragments are
+filled out to create a note or letter that disguises the true message. Cardano suggested drafting the text three
+times in order to smooth any irregularities that might indicate the hidden words.
+The recipient of the message must possess an identical grille. Copies of grilles are cut from an original template,
+but many different patterns could be made for one-to-one correspondence.
+The grille can be placed in four positions - face up and face down, upright and reversed – which increases the
+number of possible cell positions fourfold.
